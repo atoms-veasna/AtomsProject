@@ -2,7 +2,9 @@
 #include <stdint.h>
 int main()
 {
-for(){
-};
+  for(int i=0; i<5; i++)
+  {
+    printf("value=%d \n",i);
+  };
 return 0;
 }
